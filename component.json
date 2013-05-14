@@ -1,0 +1,14 @@
+{
+  "name": "wdmtg-jquery-ui",
+  "version": "1.9.1",
+  "author" : "MFG Labs",
+  "main": "./jquery-ui-1.9.1.custom.min.js",
+  "ignore": [
+    "*.txt",
+    "LICENCE",
+    "README.md"
+  ],
+  "dependencies": {
+    "jquery" : "1.9.1"
+  }
+}
